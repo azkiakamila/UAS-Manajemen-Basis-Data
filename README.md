@@ -1,7 +1,7 @@
-# UAS_MBD_Shandy Ilham Alamsyah_21091397015_MI2021A
+# UAS_MBD_Azkia Kamila_21091397027_MI2021A
 Migration & Seeding Database Laravel
 
-1. Buat Migration File
+1. Create Migration File
 ![246091644-e5a22494-2c9f-4517-b394-aad0d6e06bbb](https://github.com/ShandyIlham/UAS_MBD/assets/89757776/0d74e0e4-430b-44da-8fac-a9e8e9956114)
 
 2. Edit File Migration
@@ -10,7 +10,7 @@ Migration & Seeding Database Laravel
 3. Migrate Database
 ![246090449-d675592a-04c9-4999-8994-b94cca511354](https://github.com/ShandyIlham/UAS_MBD/assets/89757776/d082344a-0b2a-4b31-8616-108fe44e87d0)
 
-4. Buat Seeder File
+4. Create Seeder File
 ![246091398-73e56aa4-1aaa-4bbc-86d3-6a58ef02f8a4](https://github.com/ShandyIlham/UAS_MBD/assets/89757776/b39d3b5e-9ec9-4284-be1d-26a66b236289)
 
 5. Edit File Seeder
